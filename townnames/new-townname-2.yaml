@@ -1,7 +1,9 @@
 available: false
 id: 2
 mainset:
-- names: []
+- names:
+  - name: Málaga Marbella Mijas Fuengirola Vélez-Málaga Estepona Benalmádena Torremolinos Rincón de la Victoria Alhaurín de la Torre Cártama Alhaurín el Grande Ronda Antequera Nerja Coín Torrox Manilva Benahavís Casares Almogía Álora Archidona Campillos Pizarra Villanueva del Trabuco Villanueva del Rosario Villanueva de Algaidas
+    probability: 29
 name: 'New Townname #2'
 source: ''
 subsets: []
